@@ -4,3 +4,6 @@ The file provides a comprehensive sales dashboard analyzing:  Firm performance  
 # Dataset Link
 <a href = "https://github.com/ashishmudga/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard%20project1.xlsx">Sales analysis data</a>
 
+#Images Dashboard
+<a href = "https://github.com/ashishmudga/Sales-Analysis-Dashboard/blob/main/sales%20analysis.png">Images Dashboard</a>
+
